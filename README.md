@@ -48,9 +48,7 @@
 
 ### 📊 GitHub 统计
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=youufis&show_icons=true&theme=transparent&hide_border=true&count_private=true&include_all_commits=true&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=youufis&layout=compact&theme=transparent&hide_border=true)
 
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=youufis&theme=transparent&hide_border=true&date_format=Y-m-d)
 
