@@ -2,6 +2,17 @@
 
 > 全栈开发者 · AI 教育平台作者 · 开源爱好者
 
+<p align="center">
+  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white" />
+  <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black" />
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" />
+  <img src="https://img.shields.io/badge/Ant%20Design-0170FE?style=flat-square&logo=antdesign&logoColor=white" />
+  <img src="https://img.shields.io/badge/SQLite-003B57?style=flat-square&logo=sqlite&logoColor=white" />
+  <img src="https://img.shields.io/badge/DashScope-FF6A00?style=flat-square&logo=alibabacloud&logoColor=white" />
+  <img src="https://img.shields.io/badge/DeepSeek-4F6EF7?style=flat-square&logo=deepseek&logoColor=white" />
+</p>
+
 ---
 
 ### 🚀 我的作品
@@ -37,29 +48,11 @@
 
 ### 📊 GitHub 统计
 
-<picture>
-  <source
-    srcset="https://github-readme-stats.vercel.app/api?username=youufis&show_icons=true&theme=dark&hide_border=true&count_private=true"
-    media="(prefers-color-scheme: dark)"
-  />
-  <source
-    srcset="https://github-readme-stats.vercel.app/api?username=youufis&show_icons=true&theme=default&hide_border=true&count_private=true"
-    media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
-  />
-  <img src="https://github-readme-stats.vercel.app/api?username=youufis&show_icons=true&theme=default&hide_border=true&count_private=true" />
-</picture>
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=youufis&show_icons=true&theme=transparent&hide_border=true&count_private=true&include_all_commits=true&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage)
 
-<picture>
-  <source
-    srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=youufis&layout=compact&theme=dark&hide_border=true"
-    media="(prefers-color-scheme: dark)"
-  />
-  <source
-    srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=youufis&layout=compact&theme=default&hide_border=true"
-    media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
-  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=youufis&layout=compact&theme=default&hide_border=true" />
-</picture>
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=youufis&layout=compact&theme=transparent&hide_border=true)
+
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=youufis&theme=transparent&hide_border=true&date_format=Y-m-d)
 
 ---
 
